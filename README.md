@@ -1,1 +1,1 @@
-# ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification
+# ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification (ACL 2022)
