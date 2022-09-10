@@ -2,6 +2,8 @@
 
 The pre-trained corpus of ClarET is the same as that of EventBERT and can be found in https://drive.google.com/file/d/1TQgrrBM4-LMUhWd5mYeUwgoWMwZly79Q/view?usp=sharing.
 
+MCNC dataset can be found in https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018.
+
 If you use these resources in your research, please consider citing the following papers:
 ```
 @inproceedings{zhou2022claret,
