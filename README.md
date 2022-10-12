@@ -1,6 +1,6 @@
 # ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification (ACL 2022)
 
-The pre-trained corpus of ClarET is the same as that of EventBERT and can be found in https://drive.google.com/file/d/1TQgrrBM4-LMUhWd5mYeUwgoWMwZly79Q/view?usp=sharing.
+The pre-trained corpus of ClarET is the same as that of EventBERT and can be found in [CORPUS](https://drive.google.com/file/d/1TQgrrBM4-LMUhWd5mYeUwgoWMwZly79Q/view?usp=sharing).
 
 MCNC dataset can be found in https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018.
 
